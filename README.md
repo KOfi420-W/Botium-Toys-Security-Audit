@@ -31,3 +31,78 @@ The audit is structured to reflect **NIST Cybersecurity Framework (CSF)** domain
 ---
 
 ## 📁 Repository Structure  
+## 🛡 Key Findings (Summary)
+### 🔸 **1. Asset Vulnerabilities**
+Some high‑value assets lacked documented protection measures or clear ownership.
+
+### 🔸 **2. Missing or Weak Controls**
+Several controls were either incomplete, inconsistent, or missing entirely.
+
+### 🔸 **3. Risk Exposure**
+The risk register indicates several medium‑to‑high risks requiring immediate mitigation.
+
+### 🔸 **4. Policy Gaps**
+Certain policies either were outdated or not implemented across teams consistently.
+
+### 🔸 **5. Compliance Concerns**
+Some operations do not fully meet best‑practice security requirements.
+
+> Full detail is available in *Audit_Report.pdf*.
+
+---
+
+## 📊 Risk Assessment Approach  
+Risk was evaluated using:
+
+- **Likelihood × Severity model**  
+- Asset classification  
+- Threat modeling concepts  
+- Business impact analysis  
+
+Risk ratings follow a standardized 3‑tier scale:  
+🔴 High • 🟠 Medium • 🟢 Low
+
+---
+
+## 🔧 Controls Reviewed  
+Controls were examined in categories such as:
+
+- Access management  
+- Network segmentation  
+- Logging & monitoring  
+- Encryption & data handling  
+- Device & endpoint security  
+- Incident response readiness  
+
+Detailed results are included in *Controls_Checklist.pdf*.
+
+---
+
+## ✅ Skills Demonstrated  
+This project highlights core entry‑level cybersecurity competencies including:
+
+- SOC analysis fundamentals  
+- GRC + audit mindset  
+- Documentation and communication skills  
+- Risk and compliance awareness  
+- Understanding of frameworks (NIST CSF)  
+- Red‑team‑informed defensive thinking  
+
+---
+
+## 🤝 About This Project  
+This audit was completed as part of the **Google Cybersecurity Professional Certificate**, a program that also includes hands‑on work such as:
+
+- Network attack analysis  
+- Threat modeling  
+- Incident handler documentation  
+- Python automation  
+- Linux hardening  
+- SIEM log investigations  
+
+
+
+## 📬 Contact  
+**Kofi Williams**  
+Technical Specialist & Cybersecurity Enthusiast  
+Red‑Team–Minded • Corporate‑Ready • Always Learning
